@@ -1,7 +1,7 @@
 
 # Face Detection Library
 
-![Build Status](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package)
+[![Build Status](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package)](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package/main)
 ![License](https://img.shields.io/github/license/yourusername/your-repo)
 ![PyPI Version](https://img.shields.io/pypi/v/face_detection_lib)
 
