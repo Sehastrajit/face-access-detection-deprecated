@@ -1,4 +1,4 @@
-```markdown
+
 # Face Detection Library
 
 ![Build Status](https://img.shields.io/github/workflow/status/yourusername/your-repo/Publish%20Python%20Package)
