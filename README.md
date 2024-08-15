@@ -1,7 +1,7 @@
 
 # Face Detection Library
 
-[![Publish Python Package](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml/badge.svg)](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml)
+[![Publish Python Package](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml/badge.svg?branch=main)](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml)
 ![License](https://img.shields.io/github/license/Sehastrajit/face-access-detection)
 ![PyPI Version](https://img.shields.io/pypi/v/face_detection_lib)
 
