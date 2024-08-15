@@ -90,10 +90,6 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or support, please reach out to [your.email@example.com](mailto:your.email@example.com).
-
 ---
 
 Thank you for using `face_detection_lib`!
