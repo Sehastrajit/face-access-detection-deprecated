@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+face_detection_lib/__init__.py
+face_detection_lib/detector.py
+face_detection_lib.egg-info/PKG-INFO
+face_detection_lib.egg-info/SOURCES.txt
+face_detection_lib.egg-info/dependency_links.txt
+face_detection_lib.egg-info/requires.txt
+face_detection_lib.egg-info/top_level.txt
+face_detection_lib/models/best.pt
