@@ -1,13 +1,3 @@
-Adding badges to your `README.md` can provide quick information about the build status, license, and other metrics. Here’s how you can incorporate some common badges:
-
-### Adding Badges
-
-1. **Build Status Badge**: Shows the status of the latest build.
-2. **License Badge**: Displays the type of license the project uses.
-3. **PyPI Version Badge**: Shows the current version of the package on PyPI.
-
-Here’s how you can update your `README.md` with these badges:
-
 ```markdown
 # Face Detection Library
 
