@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: face_detection_lib
-Version: 0.2
+Version: 0.3
 Summary: A library for face detection using YOLOv8
 Home-page: https://github.com/Sehastrajit/face-access-detection
-Author: Sehastarajit
+Author: Sehastrajit
 Author-email: your.email@example.com
 License: MIT
 Description-Content-Type: text/markdown
@@ -16,8 +16,8 @@ Requires-Dist: numpy
 
 # Face Detection Library
 
-![Build Status](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package)
-![License](https://img.shields.io/github/license/yourusername/your-repo)
+[![Build Status](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package)](https://img.shields.io/github/workflow/status/Sehastrajit/face-access-detection/Publish%20Python%20Package/main)
+![License](https://img.shields.io/github/license/Sehastrajit/face-access-detection)
 ![PyPI Version](https://img.shields.io/pypi/v/face_detection_lib)
 
 A Python library for face detection using YOLOv8. This library enables real-time face detection via webcam, leveraging the YOLOv8 model for high-performance object detection.
@@ -96,36 +96,6 @@ To run your tests, execute:
 ```bash
 pytest
 ```
-
-## Build and Upload to PyPI
-
-To publish your library to PyPI, follow these steps:
-
-1. **Install Twine**
-
-   Make sure `twine` is installed:
-
-   ```bash
-   pip install twine
-   ```
-
-2. **Build the Package**
-
-   Navigate to the root directory of your project and build the package:
-
-   ```bash
-   python setup.py sdist bdist_wheel
-   ```
-
-3. **Upload to PyPI**
-
-   Use `twine` to upload your package to PyPI:
-
-   ```bash
-   twine upload dist/*
-   ```
-
-   Replace `dist/*` with the actual path to your distribution files if necessary.
 
 ## Contributing
 
