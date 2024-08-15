@@ -97,4 +97,3 @@ For any questions or support, please reach out to [your.email@example.com](mailt
 ---
 
 Thank you for using `face_detection_lib`!
-```
