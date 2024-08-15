@@ -3,7 +3,7 @@ name: Publish Python Package
 on:
   push:
     branches:
-      - main  # Change this if your default branch is named differently (e.g., 'master')
+      - main  # Update to your default branch name
 
 jobs:
   build-and-publish:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to latest version
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Updated to latest version
         with:
-          python-version: '3.9'  # Specify the Python version you are using
+          python-version: '3.9'  # Specify your Python version
 
       - name: Install dependencies
         run: |
