@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: face_detection_lib
-Version: 0.3
+Version: 0.4
 Summary: A library for face detection using YOLOv8
 Home-page: https://github.com/Sehastrajit/face-access-detection
 Author: Sehastrajit
@@ -16,8 +16,8 @@ Requires-Dist: numpy
 
 # Face Detection Library
 
-[![Publish Python Package](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml/badge.svg)](https://github.com/Sehastrajit/face-access-detection/actions/workflows/workflow.yml)
-![License](https://img.shields.io/github/license/Sehastrajit/face-access-detection)
+![working](https://img.shields.io/badge/status-working-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PyPI Version](https://img.shields.io/pypi/v/face_detection_lib)
 
 A Python library for face detection using YOLOv8. This library enables real-time face detection via webcam, leveraging the YOLOv8 model for high-performance object detection.
@@ -105,11 +105,6 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or support, please reach out to [your.email@example.com](mailto:your.email@example.com).
-
 ---
 
 Thank you for using `face_detection_lib`!
-```
