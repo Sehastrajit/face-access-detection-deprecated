@@ -128,28 +128,3 @@ For any questions or support, please reach out to [your.email@example.com](mailt
 
 Thank you for using `face_detection_lib`!
 ```
-
-### Notes:
-
-1. **Build Status Badge**: Replace `yourusername/your-repo` with your GitHub username and repository name. The URL structure may vary depending on your CI/CD service (e.g., GitHub Actions, Travis CI).
-
-2. **License Badge**: Replace `yourusername/your-repo` with your GitHub username and repository name.
-
-3. **PyPI Version Badge**: The `face_detection_lib` in the URL should match the name of your package on PyPI.
-
-### How to Get the Badge URLs
-
-- **Build Status Badge**: The badge URL depends on your CI/CD service. For GitHub Actions, it typically follows this format:
-  ```
-  https://img.shields.io/github/workflow/status/yourusername/your-repo/Workflow%20Name
-  ```
-- **License Badge**: You can use shields.io with your GitHub repo:
-  ```
-  https://img.shields.io/github/license/yourusername/your-repo
-  ```
-- **PyPI Version Badge**: This follows the format:
-  ```
-  https://img.shields.io/pypi/v/your-package-name
-  ```
-
-Make sure to replace placeholders with actual values related to your project.
