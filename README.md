@@ -82,36 +82,6 @@ To run your tests, execute:
 pytest
 ```
 
-## Build and Upload to PyPI
-
-To publish your library to PyPI, follow these steps:
-
-1. **Install Twine**
-
-   Make sure `twine` is installed:
-
-   ```bash
-   pip install twine
-   ```
-
-2. **Build the Package**
-
-   Navigate to the root directory of your project and build the package:
-
-   ```bash
-   python setup.py sdist bdist_wheel
-   ```
-
-3. **Upload to PyPI**
-
-   Use `twine` to upload your package to PyPI:
-
-   ```bash
-   twine upload dist/*
-   ```
-
-   Replace `dist/*` with the actual path to your distribution files if necessary.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
