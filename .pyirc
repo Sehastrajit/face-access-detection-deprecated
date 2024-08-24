@@ -1,14 +1,8 @@
 [distutils]
 index-servers =
     pypi
-    PROJECT_NAME
 
 [pypi]
-repository = https://upload.pypi.org/legacy/
-username = __token__
-password = pypi-AgEIcHlwaS5vcmcCJGQ2YWU4ZjNiLThjOTAtNGRlNC1iYmYzLTU0NGM4ZWFhZWJiMQACGlsxLFsiZmFjZS1kZXRlY3Rpb24tbGliIl1dAAIsWzIsWyIxM2Y3NGM5ZS1hZDRlLTQ0MWQtOTFmZC1hNGI3MDU0YmY5NDciXV0AAAYgSRtfXJp6Tos6MqMycYLzNSm_zbQZ21CqAI__ErreJDg
-
-[PROJECT_NAME]
 repository = https://upload.pypi.org/legacy/
 username = __token__
 password = pypi-AgEIcHlwaS5vcmcCJGQ2YWU4ZjNiLThjOTAtNGRlNC1iYmYzLTU0NGM4ZWFhZWJiMQACGlsxLFsiZmFjZS1kZXRlY3Rpb24tbGliIl1dAAIsWzIsWyIxM2Y3NGM5ZS1hZDRlLTQ0MWQtOTFmZC1hNGI3MDU0YmY5NDciXV0AAAYgSRtfXJp6Tos6MqMycYLzNSm_zbQZ21CqAI__ErreJDg
