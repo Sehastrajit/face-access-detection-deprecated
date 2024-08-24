@@ -86,6 +86,10 @@ pytest
 
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
 
+### Contributors
+- [deena1412](https://github.com/Deena1412)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
