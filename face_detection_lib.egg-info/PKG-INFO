@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: face_detection_lib
-Version: 0.7
+Version: 0.8
 Summary: A library for face detection using YOLOv8
 Home-page: https://github.com/Sehastrajit/face-access-detection
 Author: Sehastrajit
@@ -102,7 +102,10 @@ pytest
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
 
 ### Contributors
-- [deena1412](https://github.com/Deena1412)
+- [Sehastrajit](https://github.com/Sehastrajit)
+- [Deena](https://github.com/Deena1412)
+
+
 
 
 ## License

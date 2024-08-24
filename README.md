@@ -87,7 +87,10 @@ pytest
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
 
 ### Contributors
-- [deena1412](https://github.com/Deena1412)
+- [Sehastrajit](https://github.com/Sehastrajit)
+- [Deena](https://github.com/Deena1412)
+
+
 
 
 ## License
